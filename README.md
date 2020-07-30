@@ -1,5 +1,5 @@
 # Gaze Direction Detection & Annotation
-This repository contains code accompanying my Bachelor's thesis [“Dominance is relative: Automatic gaze annotation and conversational dominance in the MULTISIMO corpus”](thesis.pdf).
+This repository contains code accompanying my Bachelor's thesis [“Dominance is relative: Automatic gaze annotation and conversational dominance in the MULTISIMO corpus”](/resources/thesis.pdf).
 
 Two papers building on this work are currently under review for publication at IEEE CogInfoCom 2020:
 	1. L. McLaren, M. Koutsombogera, and C. Vogel, “A heuristic method for automatic gaze detection in constrained multi-modal dialogue corpora”
@@ -26,7 +26,7 @@ MULTISIMO is a multimodal, multiparty dialogue corpus developed in Trinity Colle
 
 ### Sample broad annotation output 
 |Begin Time | End Time | Direction         | Duration |
-|———————————|——————————|———————————————————|——————————|
+|-----------|----------|-------------------|----------|
 | 0         | 233      | Gaze_Player-Left  | 233      |
 | 233       | 700      | Gaze_Away         | 467      |
 | 700       | 1534     | Gaze_Player-Left  | 834      |
