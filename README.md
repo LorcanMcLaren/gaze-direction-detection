@@ -33,4 +33,5 @@ MULTISIMO is a multimodal, multiparty dialogue corpus developed in Trinity Colle
 | 2602      | 30463    | Gaze_Player-Right | 27861    |
 
 
+
 <a name="myfootnote1">1</a>: M. Koutsombogera and C. Vogel, “The MULTSIMO multimodal corpus of collaborative interactions,” in *Proceedings of the 19th ACM International Conference on Multimodal Interaction*, 2019, pp. 502 – 503.
