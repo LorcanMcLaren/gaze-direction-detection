@@ -2,15 +2,14 @@
 This repository contains code accompanying my Bachelor's thesis [“Dominance is relative: Automatic gaze annotation and conversational dominance in the MULTISIMO corpus”](/resources/thesis.pdf).
 
 Two papers building on this work are currently under review for publication at IEEE CogInfoCom 2020:
-	1. L. McLaren, M. Koutsombogera, and C. Vogel, “A heuristic method for automatic gaze detection in constrained multi-modal dialogue corpora”
-	2. L. McLaren, M. Koutsombogera, and C. Vogel, “Gaze, dominance and dialogue role in the MULTSIMO
-	corpus”
+1. L. McLaren, M. Koutsombogera, and C. Vogel, “A heuristic method for automatic gaze detection in constrained multi-modal dialogue corpora”
+2. L. McLaren, M. Koutsombogera, and C. Vogel, “Gaze, dominance and dialogue role in the MULTSIMO corpus”
 
 One aim of this project was to automatically generate annotations for gaze direction to be imported into an annotation tool, ELAN. Comparison of the results of automatic annotation to those of a human annotator resulted in a modified Kappa score of 0.79, indicating good inter-annotator agreement.
 
 Consequent analysis of the resulting gaze annotation data is discussed in detail in my thesis, linked above.
 
-MULTISIMO is a multimodal, multiparty dialogue corpus developed in Trinity College Dublin to enable the study of “human social behaviour in multiparty interaction, the structural representation of the interaction flow, and the modelling of the social communication mechanism to be integrated into intelligent collaborative systems”[^1]. Further information and access to the corpus data can be found [here](http://multisimo.eu).
+MULTISIMO is a multimodal, multiparty dialogue corpus developed in Trinity College Dublin to enable the study of “human social behaviour in multiparty interaction, the structural representation of the interaction flow, and the modelling of the social communication mechanism to be integrated into intelligent collaborative systems”<sup>[1](#myfootnote1)</sup>. Further information and access to the corpus data can be found [here](http://multisimo.eu).
 
 ***
 
@@ -34,4 +33,4 @@ MULTISIMO is a multimodal, multiparty dialogue corpus developed in Trinity Colle
 | 2602      | 30463    | Gaze_Player-Right | 27861    |
 
 
-[^1]: M. Koutsombogera and C. Vogel, “The MULTSIMO multimodal corpus of collaborative interactions,” in *Proceedings of the 19th ACM International Conference on Multimodal Interaction*, 2019, pp. 502 – 503.
+<a name="myfootnote1">1</a>: M. Koutsombogera and C. Vogel, “The MULTSIMO multimodal corpus of collaborative interactions,” in *Proceedings of the 19th ACM International Conference on Multimodal Interaction*, 2019, pp. 502 – 503.
